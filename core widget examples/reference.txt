@@ -1,0 +1,4 @@
+http://effbot.org/tkinterbook/tkinter-classes.htm
+
+holy crap there's a lot on canvas, let's come back to it later!
+http://effbot.org/tkinterbook/canvas.htm
